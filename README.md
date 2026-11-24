@@ -33,3 +33,21 @@ I'm also the founder of **Fixera Platforms**, a platform dedicated to creating i
 - PostgreSQL, MySQL 
 - Docker, AWS, CI/CD
 - Git, Jest, Postman
+
+## Featured Projects
+
+* **[ChatTicket Events](https://vercel.app)** — A WhatsApp-based event ticketing platform that enables seamless event discovery, booking, and ticket delivery right at your fingertips.
+  * *Tech:* React, Python, WhatsApp Business API, PostgreSQL
+* **[HustleKona](https://vercel.app)** — A blue-collar job finder connecting recruiters and households with vetted local casual workers, including attendants, masons, and home laborers.
+  * *Tech:* Full-Stack Web, REST APIs, Relational Database
+* **[CAP Church Management System](https://vercel.app)** — A comprehensive church management information system that tracks active members, financial contributions, sermons, and devotions, complete with integrated **M-Pesa Daraja API** and **SMS gateways**.
+  * *Tech:* React, Node.js, PostgreSQL, M-Pesa API, SMS Gateway
+
+---
+
+## Connect With Me
+
+* **Portfolio:** [eugineweks.vercel.app](https://vercel.app)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **Venture:** Fixera Platforms — *Building practical software solutions for communities and businesses.*
+* 
